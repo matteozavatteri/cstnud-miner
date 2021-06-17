@@ -1,0 +1,5 @@
+Z=0, I=1, W=2, not w!, J=9
+Z=0, I=4, X=6, x!, O=6, not o?
+Z=0, I=9, i?, O=19, not o?, X=26, not x!
+Z=0, J=2, X=11, O=11, o?
+Z=0, X=1, x!, W=9, not w!, O=9, o?

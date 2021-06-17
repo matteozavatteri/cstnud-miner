@@ -1,0 +1,5 @@
+Z=0, H=1, not h?, X=1, N=10
+Z=0, D=1, N=3, not n?, X=3
+Z=0, N=8, not n?, D=8, O=8
+Z=0, H=3, h?, N=3, not n?, D=3
+Z=0, H=1, not h?, O=1, D=9

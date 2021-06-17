@@ -1,0 +1,6 @@
+Z=0, M=1, E=2, e?, B=5
+Z=0, Y=1, not y!, E=1, e?, M=1, not m?
+Z=0, E=2, e?, G=2, g!, M=2, not m?
+Z=0, B=1, M=1, not m?, G=1, not g!
+Z=0, G=1, M=1, not m?, E=1, not e?
+Z=0, M=1, Y=7, y!, G=8

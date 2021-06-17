@@ -1,0 +1,6 @@
+Z=0, V=10, not v!, S=19
+Z=0, S=1, not s?, V=3
+Z=0, V=1, S=2, s?
+Z=0, G=1, O(G)=1, V=11, v!
+Z=0, S=3, not s?, I=3
+Z=0, G=1, not g!, I=1, O(G)=4

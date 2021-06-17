@@ -1,0 +1,5 @@
+Z=0, A=1, O=1, I=8, not i!
+Z=0, X=7, H=7, O=8
+Z=0, I=6, A=13, H=16, not h?
+Z=0, A=8, X=8, not x!, H=8
+Z=0, X=1, not x!, I=1, not i!, A=8

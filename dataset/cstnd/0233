@@ -1,0 +1,6 @@
+Z=0, D=1, not d!, Y=1, not y?, U=11, not u!
+Z=0, V=1, G=1, g?, Y=3
+Z=0, Y=6, not y?, G=6, not g?, V=6
+Z=0, U=10, D=10, G=10
+Z=0, Y=2, y?, G=2, not g?, V=6
+Z=0, Y=11, G=11, not g?, U=11, u!

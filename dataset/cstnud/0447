@@ -1,0 +1,6 @@
+Z=0, U=4, I=4, V(U)=8
+Z=0, F=4, I=5, not i!
+Z=0, F=4, f?, T=13
+Z=0, I=1, not i!, T=4, not t!
+Z=0, U=2, not u?, V(U)=7, I=11
+Z=0, T=1, t!, I=1

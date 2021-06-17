@@ -1,0 +1,6 @@
+Z=0, O=1, o!, F=1, W=1, not w?
+Z=0, S=11, W=16, not w?, F=16
+Z=0, F=1, f?, W=1, w?, S=7
+Z=0, O=4, not o!, S=14, F=14, not f?
+Z=0, F=9, M=14, not m!, W=14
+Z=0, M=2, not m!, F=11, f?, W=16

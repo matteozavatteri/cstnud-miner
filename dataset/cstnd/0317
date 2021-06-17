@@ -1,0 +1,5 @@
+Z=0, C=6, not c!, U=11, N=11, not n?
+Z=0, C=1, c!, H=7, not h!, U=7, not u?
+Z=0, U=1, u?, C=1, not c!, H=1
+Z=0, C=1, U=9, u?, H=19, not h!
+Z=0, U=1, not u?, N=1, n?, H=1

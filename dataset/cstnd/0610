@@ -1,0 +1,5 @@
+Z=0, K=1, D=1, not d?, P=1, p!
+Z=0, P=9, F=9, f!, D=18, not d?
+Z=0, P=10, K=10, not k?, F=20, not f!
+Z=0, K=10, P=10, D=10
+Z=0, D=11, F=18, not f!, Q=21

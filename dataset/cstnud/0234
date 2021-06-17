@@ -1,0 +1,6 @@
+Z=0, G=1, g!, J(G)=3, R=11
+Z=0, F=1, G=1, not g!
+Z=0, G=6, not g!, J(G)=9, F=9
+Z=0, R=1, not r?, T=1, not t!
+Z=0, G=1, g!, R=1, J(G)=4
+Z=0, R=2, not r?, T=4, not t!

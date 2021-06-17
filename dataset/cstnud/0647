@@ -1,0 +1,6 @@
+Z=0, N=10, M=10, m?
+Z=0, T=9, not t!, M=19, not m?
+Z=0, Q=4, not q!, G(Q)=7, T=7, not t!
+Z=0, Q=1, q!, T=1, not t!
+Z=0, Q=10, M=13, G(Q)=15
+Z=0, M=1, T=1, t!

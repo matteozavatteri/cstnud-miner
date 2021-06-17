@@ -1,0 +1,6 @@
+Z=0, T=7, not t?, O=16, E=16, not e!
+Z=0, K=8, k?, E=8, not e!, L=8
+Z=0, T=10, t?, K=10, k?, O=10
+Z=0, T=8, K=13, not k?, E=13
+Z=0, E=1, L=5, l!, O=11
+Z=0, E=4, L=4, not l!, O=4

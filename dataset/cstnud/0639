@@ -1,0 +1,6 @@
+Z=0, J=11, V=11, not v?, R(V)=14
+Z=0, V=4, v?, M=4, not m!, R(V)=8
+Z=0, M=10, H=10, not h!
+Z=0, H=5, not h!, M=5
+Z=0, M=1, H=7, not h!
+Z=0, H=6, h!, J=6

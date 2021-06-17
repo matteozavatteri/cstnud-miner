@@ -1,0 +1,6 @@
+Z=0, D=3, E=3, e!
+Z=0, R=1, not r!, B=3
+Z=0, D=10, R=14, not r!
+Z=0, E=1, D=1, V(E)=4
+Z=0, R=9, not r!, E=9, not e!, V(E)=13
+Z=0, D=8, R=8

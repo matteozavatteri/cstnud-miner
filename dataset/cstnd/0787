@@ -1,0 +1,4 @@
+Z=0, F=1, D=1, C=1
+Z=0, O=1, U=10, D=10, not d!
+Z=0, F=5, U=5, C=11, not c!
+Z=0, D=1, not d!, C=1, c!, U=2, not u?

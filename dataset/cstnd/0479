@@ -1,0 +1,5 @@
+Z=0, U=1, Y=1, not y!, O=1, not o?
+Z=0, N=1, n?, U=4, O=4, o?
+Z=0, V=11, O=15, N=15, not n?
+Z=0, U=1, not u!, O=10, o?, Y=10
+Z=0, N=9, U=12, not u!, V=13

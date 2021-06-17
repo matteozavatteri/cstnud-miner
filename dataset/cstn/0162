@@ -1,0 +1,5 @@
+Z=0, N=1, Y=1, F=1, not f?
+Z=0, Y=1, not y?, F=4, f?, T=4
+Z=0, F=2, f?, C=2, T=2
+Z=0, F=1, not f?, T=1, N=1
+Z=0, N=7, T=7, F=7, not f?

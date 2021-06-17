@@ -1,0 +1,5 @@
+Z=0, P=4, R=8, M(P)=8
+Z=0, P=1, M(P)=4, R=4, not r!
+Z=0, P=11, not p?, R=11
+Z=0, T=1, not t?, A=8, not a!
+Z=0, R=1, not r!, T=1

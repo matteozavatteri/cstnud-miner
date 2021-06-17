@@ -1,0 +1,4 @@
+Z=0, O=1, S=1, not s?
+Z=0, J=1, not j?, S=3, not s?
+Z=0, V=11, v!, R(V)=12, J=12, not j?
+Z=0, J=9, V=9, R(V)=13

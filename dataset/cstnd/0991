@@ -1,0 +1,6 @@
+Z=0, F=1, I=1, X=1, x?
+Z=0, T=3, X=13, not x?, F=13
+Z=0, I=1, not i!, F=1, L=1, not l?
+Z=0, I=10, L=19, l?, T=26, not t!
+Z=0, L=1, not l?, I=6, F=10
+Z=0, X=7, not x?, I=7, L=12, not l?

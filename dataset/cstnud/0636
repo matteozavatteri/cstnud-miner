@@ -1,0 +1,5 @@
+Z=0, K=10, k!, F=10, f!
+Z=0, V=3, not v?, F=3, f!
+Z=0, V=1, not v?, E=11, not e?, D(V)=13
+Z=0, K=6, not k!, E=6
+Z=0, F=1, not f!, V=1, not v?, D(V)=3

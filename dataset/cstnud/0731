@@ -1,0 +1,5 @@
+Z=0, O=4, F=4, U(F)=5
+Z=0, O=5, H=5
+Z=0, F=1, not f?, U(F)=5, O=5, not o!
+Z=0, G=1, H=1, h?
+Z=0, O=1, not o!, H=1, not h?

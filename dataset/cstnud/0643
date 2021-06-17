@@ -1,0 +1,6 @@
+Z=0, T=5, not t!, J=5, not j?
+Z=0, Q=1, J=1
+Z=0, J=3, j?, M=3, not m?, H(M)=3
+Z=0, M=1, not m?, H(M)=1, J=1
+Z=0, M=6, H(M)=6, Q=6
+Z=0, M=1, not m?, H(M)=5, T=11, not t!

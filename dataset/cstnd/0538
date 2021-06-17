@@ -1,0 +1,6 @@
+Z=0, R=3, H=3, not h?, W=12
+Z=0, Y=5, not y!, H=5, R=5
+Z=0, W=1, B=1, Y=1
+Z=0, H=1, h?, Y=7, R=14
+Z=0, R=1, H=1, h?, W=5, not w!
+Z=0, W=1, not w!, Y=1, H=1, not h?

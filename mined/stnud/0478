@@ -1,0 +1,29 @@
+Propositions {
+  q c
+}
+
+TimePoints {
+  (V : )
+  (Z : )
+  (C! : c : )
+  (Q! : q : )
+  (G : )
+  (U : )
+}
+
+ContingentLinks {
+  (G,2,4,U)
+}
+
+Constraints {
+  (Z - Z <= 0 : )
+  (V - Z <= 7 : )
+  (G - Z <= 4 : )
+  (Q - Z <= 13 : )
+  (C - Z <= 4 : )
+  (Z - V <= -1 : )
+  (Z - G <= -3 : )
+  (Z - Q <= -4 : )
+  (Z - C <= -1 : )
+}
+

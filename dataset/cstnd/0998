@@ -1,0 +1,6 @@
+Z=0, T=1, t!, R=1, A=4
+Z=0, R=1, r?, V=1, A=1, not a?
+Z=0, V=6, not v!, T=7, not t!, R=7
+Z=0, V=6, not v!, R=9, T=11
+Z=0, R=1, r?, T=1, P=4
+Z=0, P=1, A=1, not a?, T=5, t!

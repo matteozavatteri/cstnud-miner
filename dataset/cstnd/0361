@@ -1,0 +1,6 @@
+Z=0, V=1, not v?, S=3, s!, P=11, not p!
+Z=0, A=1, P=1, S=1, s!
+Z=0, V=7, v?, P=16, S=16, not s!
+Z=0, S=9, not s!, P=19, V=19, not v?
+Z=0, S=11, A=12, P=12, p!
+Z=0, P=1, p!, V=1, S=4

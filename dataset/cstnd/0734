@@ -1,0 +1,5 @@
+Z=0, S=1, D=1, M=5
+Z=0, I=6, i?, S=6, M=6
+Z=0, S=1, not s?, X=1, I=1, not i?
+Z=0, I=7, not i?, M=7, m!, D=7
+Z=0, M=1, m!, S=1, not s?, X=10

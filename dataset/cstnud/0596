@@ -1,0 +1,6 @@
+Z=0, D=1, not d?, R=1, r?
+Z=0, D=2, not d?, R=2
+Z=0, Q=1, not q!, R=4, not r?
+Z=0, Q=8, q!, H=13, O(H)=14
+Z=0, H=3, O(H)=3, D=3, d?
+Z=0, R=1, r?, Q=1, q!

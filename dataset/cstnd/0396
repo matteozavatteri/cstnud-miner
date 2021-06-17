@@ -1,0 +1,4 @@
+Z=0, S=1, s?, Q=1, not q!, D=7
+Z=0, S=10, Q=15, not q!, J=15
+Z=0, L=1, not l?, J=1, D=1, d!
+Z=0, J=1, S=1, not s?, D=10, not d!

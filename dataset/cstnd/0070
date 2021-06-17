@@ -1,0 +1,6 @@
+Z=0, F=4, not f?, N=10, D=14
+Z=0, F=1, N=6, D=6
+Z=0, D=1, d?, N=1, n!, X=1, not x!
+Z=0, F=1, not f?, N=1, not n!, X=1
+Z=0, X=1, B=4, F=4
+Z=0, B=1, D=4, d?, F=6, not f?

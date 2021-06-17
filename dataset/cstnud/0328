@@ -1,0 +1,4 @@
+Z=0, K=5, O=6, o!
+Z=0, O=1, not o!, L(O)=1, D=1, not d?
+Z=0, D=1, P=1, not p!
+Z=0, D=8, O=8, not o!, L(O)=11

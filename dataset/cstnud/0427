@@ -1,0 +1,5 @@
+Z=0, L=1, not l!, P(L)=5, H=8
+Z=0, M=1, m!, O=1
+Z=0, M=9, not m!, H=19
+Z=0, M=1, not m!, L=1, not l!, P(L)=3
+Z=0, O=1, not o?, L=1, l!, P(L)=2

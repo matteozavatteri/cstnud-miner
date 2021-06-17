@@ -1,0 +1,5 @@
+Z=0, H=10, not h!, F(H)=15, R=15
+Z=0, U=10, not u?, R=10, not r!
+Z=0, H=9, F(H)=12, R=12
+Z=0, U=1, not u?, R=1, r!
+Z=0, H=1, N=1, not n?, F(H)=6

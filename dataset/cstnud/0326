@@ -1,0 +1,4 @@
+Z=0, M=10, E=10
+Z=0, F=1, f!, D(F)=1, Q=1, not q?
+Z=0, F=5, Q=9, not q?, D(F)=13
+Z=0, F=1, not f!, E=1, not e?

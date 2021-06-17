@@ -1,0 +1,6 @@
+Z=0, I=1, i!, T=5, not t!
+Z=0, I=1, not i!, Q=3
+Z=0, I=1, not i!, T=1, t!
+Z=0, L=1, T=10, X(L)=14
+Z=0, L=1, X(L)=1, Q=1
+Z=0, Q=1, T=1, not t!

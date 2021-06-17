@@ -1,0 +1,5 @@
+Z=0, B=1, not b!, Y=3, not y?
+Z=0, B=1, V=11, v?, O(V)=11
+Z=0, Q=1, not q!, B=11
+Z=0, V=6, not v?, B=6, O(V)=9
+Z=0, Q=1, Y=11

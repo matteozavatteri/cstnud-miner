@@ -1,0 +1,4 @@
+Z=0, P=3, G=3
+Z=0, P=3, not p!, G=3
+Z=0, V=1, D=1, not d!, E(D)=5
+Z=0, D=3, not d!, P=3, not p!, E(D)=5

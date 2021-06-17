@@ -1,0 +1,5 @@
+Z=0, T=1, t?, W=1, K=1
+Z=0, W=1, T=1, not t?, L=6, not l?
+Z=0, P=6, W=6, K=6
+Z=0, L=1, l?, T=1, K=2
+Z=0, T=1, not t?, P=4, L=8, not l?

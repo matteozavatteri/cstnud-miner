@@ -1,0 +1,6 @@
+Z=0, O=10, not o?, Y=13
+Z=0, G=1, not g?, Y=1, W(G)=2
+Z=0, G=6, not g?, J=6, W(G)=10
+Z=0, G=1, Y=9
+Z=0, J=2, O=5
+Z=0, J=10, not j!, O=19, not o?

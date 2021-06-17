@@ -1,0 +1,27 @@
+Propositions {
+  l
+}
+
+TimePoints {
+  (I : )
+  (K : )
+  (L? : l : )
+  (Z : )
+  (J : )
+}
+
+ContingentLinks {
+}
+
+Constraints {
+  (Z - Z <= 0 : )
+  (I - Z <= 9 : )
+  (J - Z <= 17 : )
+  (K - Z <= 17 : )
+  (L - Z <= 9 : )
+  (Z - I <= -1 : )
+  (Z - J <= -1 : )
+  (Z - K <= -1 : )
+  (Z - L <= -5 : )
+}
+

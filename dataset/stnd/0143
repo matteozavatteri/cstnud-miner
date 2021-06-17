@@ -1,0 +1,5 @@
+Z=0, K=1, T=3, t!, N=9
+Z=0, D=4, d!, T=6, M=15
+Z=0, M=1, D=1, not d!, T=1, not t!
+Z=0, T=2, not t!, N=2, D=4, not d!
+Z=0, T=1, M=1, N=1

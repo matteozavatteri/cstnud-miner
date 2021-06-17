@@ -1,0 +1,6 @@
+Z=0, G=1, D=9
+Z=0, X=8, not x!, G=8, g!, N(X)=8
+Z=0, G=1, not g!, X=9, not x!, N(X)=13
+Z=0, Q=1, q?, X=1
+Z=0, Q=10, not q?, G=14
+Z=0, D=1, Q=10

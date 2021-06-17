@@ -1,0 +1,6 @@
+Z=0, S=4, C(S)=4, R=4
+Z=0, O=1, not o!, S=1, not s!, C(S)=2
+Z=0, S=11, R=11, not r?
+Z=0, O=1, not o!, U=1
+Z=0, R=1, r?, S=8, not s!, C(S)=10
+Z=0, R=9, r?, O=9

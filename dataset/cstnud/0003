@@ -1,0 +1,6 @@
+Z=0, S=1, not s!, Y=1, F(Y)=2
+Z=0, S=5, not s!, Y=5, not y?, F(Y)=5
+Z=0, O=1, not o?, X=4, x!
+Z=0, Y=4, O=9
+Z=0, X=1, not x!, S=1, s!
+Z=0, X=1, not x!, S=1, s!

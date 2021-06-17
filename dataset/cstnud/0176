@@ -1,0 +1,4 @@
+Z=0, P=1, not p?, Y=3
+Z=0, B=1, K(B)=5, P=5, not p?
+Z=0, B=1, not b!, P=5
+Z=0, B=11, not b!, P=11, K(B)=11

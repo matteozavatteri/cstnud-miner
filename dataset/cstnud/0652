@@ -1,0 +1,5 @@
+Z=0, H=1, not h?, Q=1, not q!, T(Q)=3
+Z=0, Q=1, not q!, N=1, not n!, T(Q)=4
+Z=0, N=4, H=4
+Z=0, N=4, Q=4, q!, T(Q)=5
+Z=0, H=1, Q=1, T(Q)=3

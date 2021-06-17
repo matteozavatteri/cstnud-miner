@@ -1,0 +1,5 @@
+Z=0, E=1, e?, K=1
+Z=0, H=1, h!, K=9, k?, J(H)=12
+Z=0, K=1, O=1
+Z=0, H=1, not h!, J(H)=1, E=1, not e?
+Z=0, H=11, not h!, E=17, not e?, J(H)=19

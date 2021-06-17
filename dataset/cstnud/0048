@@ -1,0 +1,6 @@
+Z=0, G=1, g?, U=3
+Z=0, U=6, L=13, R(L)=13
+Z=0, G=1, not g?, U=10
+Z=0, U=1, V=9, v?
+Z=0, U=1, u!, V=1, not v?
+Z=0, L=1, not l!, R(L)=2, G=8, not g?

@@ -1,0 +1,6 @@
+Z=0, L=1, not l!, P=1
+Z=0, Q=1, not q!, T=11, t?
+Z=0, P=1, L=9, not l!
+Z=0, L=1, not l!, Q=4, F(Q)=5
+Z=0, P=3, L=3
+Z=0, Q=1, F(Q)=5, T=5, t?

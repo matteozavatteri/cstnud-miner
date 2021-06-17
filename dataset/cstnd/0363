@@ -1,0 +1,6 @@
+Z=0, Y=3, S=3, T=3
+Z=0, S=7, T=8, Y=8, not y!
+Z=0, S=3, Y=3, not y!, M=13, not m!
+Z=0, S=1, not s?, M=8, Y=12
+Z=0, M=11, not m!, T=11, S=11, s?
+Z=0, M=3, not m!, Y=4, T=11

@@ -1,0 +1,4 @@
+Z=0, H=10, not h!, D=10, not d!, P(H)=13
+Z=0, H=6, h!, P(H)=6, D=6, not d!
+Z=0, H=1, h!, Y=1, not y?, P(H)=2
+Z=0, H=10, M=11

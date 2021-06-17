@@ -1,0 +1,6 @@
+Z=0, M=1, C(M)=5, U=5
+Z=0, U=6, not u!, M=14, not m?, C(M)=16
+Z=0, U=7, not u!, M=7, C(M)=11
+Z=0, J=4, not j!, M=10
+Z=0, X=1, x?, M=1, m?
+Z=0, M=1, m?, X=1, x?

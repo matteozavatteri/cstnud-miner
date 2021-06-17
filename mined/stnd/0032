@@ -1,0 +1,30 @@
+Propositions {
+  f g
+}
+
+TimePoints {
+  (T : )
+  (W : )
+  (B : )
+  (Z : )
+  (G! : g : )
+  (F! : f : )
+}
+
+ContingentLinks {
+}
+
+Constraints {
+  (Z - Z <= 0 : )
+  (W - Z <= 10 : )
+  (T - Z <= 11 : )
+  (F - Z <= 15 : )
+  (B - Z <= 4 : )
+  (G - Z <= 9 : )
+  (Z - W <= -1 : )
+  (Z - T <= -7 : )
+  (Z - F <= -1 : )
+  (Z - B <= -1 : )
+  (Z - G <= -1 : )
+}
+

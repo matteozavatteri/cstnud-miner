@@ -1,0 +1,6 @@
+Z=0, U=1, M=1, not m!, C=9, not c?
+Z=0, U=1, not u?, Q=1, not q!, M=2
+Z=0, M=1, m!, Q=3, C=7
+Z=0, Y=1, Q=10, not q!, C=10, not c?
+Z=0, Q=1, M=1, Y=4
+Z=0, Q=8, not q!, U=12, C=12, c?

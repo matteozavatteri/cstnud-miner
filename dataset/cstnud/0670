@@ -1,0 +1,6 @@
+Z=0, Q=1, q?, M=3, m!
+Z=0, M=7, R=10, not r?
+Z=0, M=1, R=1
+Z=0, Q=8, R=18, not r?
+Z=0, P=1, p!, W(P)=4, M=13, not m!
+Z=0, M=1, not m!, P=1, W(P)=5

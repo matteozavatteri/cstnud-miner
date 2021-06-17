@@ -1,0 +1,6 @@
+Z=0, U=1, not u!, X=10, C=14, not c!
+Z=0, C=1, not c!, B=1, E=1
+Z=0, E=1, X=1, C=1, not c!
+Z=0, U=1, not u!, C=9, B=13
+Z=0, B=1, X=1, C=1, c!
+Z=0, E=1, C=10, X=10

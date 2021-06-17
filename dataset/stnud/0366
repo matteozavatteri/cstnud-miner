@@ -1,0 +1,6 @@
+Z=0, M=5, H=7, h!, Y(M)=12
+Z=0, H=2, not h!, T=3, not t!
+Z=0, E=2, M=2, Y(M)=5
+Z=0, E=2, H=2, not h!
+Z=0, E=10, M=15
+Z=0, E=5, H=5, not h!

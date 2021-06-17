@@ -1,0 +1,6 @@
+Z=0, O=6, not o!, L=6
+Z=0, O=1, not o!, E=10, not e!
+Z=0, K=1, E=1, not e!
+Z=0, L=10, E=10, P(L)=13
+Z=0, E=1, not e!, L=1, P(L)=2
+Z=0, L=1, P(L)=4, E=11

@@ -1,0 +1,6 @@
+Z=0, G=1, F(G)=5, I=14
+Z=0, I=5, not i!, P=10, not p!
+Z=0, I=8, not i!, O=16, not o?
+Z=0, G=2, F(G)=4, O=14
+Z=0, I=1, not i!, G=11, F(G)=14
+Z=0, P=1, p!, O=5, not o?

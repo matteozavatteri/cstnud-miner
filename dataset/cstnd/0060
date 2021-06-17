@@ -1,0 +1,5 @@
+Z=0, T=1, C=1, c?, S=10, s!
+Z=0, T=1, not t!, C=1, S=1, not s!
+Z=0, P=1, T=1, t!, S=10, not s!
+Z=0, M=1, P=8, p?, C=17, not c?
+Z=0, S=1, not s!, M=1, P=9

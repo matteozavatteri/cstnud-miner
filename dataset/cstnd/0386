@@ -1,0 +1,4 @@
+Z=0, O=11, o!, I=11, i?, V=18
+Z=0, I=3, i?, V=3, v!, O=3, not o!
+Z=0, I=1, not i?, V=7, P=7
+Z=0, P=1, not p?, I=1, not i?, O=1, o!

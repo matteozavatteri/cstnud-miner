@@ -1,0 +1,6 @@
+Z=0, I=1, H=1
+Z=0, B=1, Q=6
+Z=0, Q=1, not q!, H=4
+Z=0, B=4, Y(B)=4, Q=13, not q!
+Z=0, Q=1, not q!, B=1, b!, Y(B)=3
+Z=0, B=1, Q=11, not q!, Y(B)=11

@@ -1,0 +1,6 @@
+Z=0, L=5, not l?, O=6, o!, I(L)=9
+Z=0, B=1, not b!, W=2, not w?
+Z=0, O=1, W=9, w?
+Z=0, O=1, L=1, I(L)=1
+Z=0, W=1, not w?, O=1, o!
+Z=0, O=1, L=2, l?

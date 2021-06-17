@@ -1,0 +1,5 @@
+Z=0, Q=1, not q!, T=7, t!
+Z=0, T=2, t!, Q=5, not q!, R(T)=6
+Z=0, T=10, not t!, R(T)=12, M=17
+Z=0, Q=1, not q!, M=5
+Z=0, T=6, not t!, Q=8, R(T)=10

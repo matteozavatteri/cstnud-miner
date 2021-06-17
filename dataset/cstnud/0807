@@ -1,0 +1,6 @@
+Z=0, V=1, v!, S=7, I(V)=8
+Z=0, V=1, not v!, I(V)=5, L=5
+Z=0, S=1, not s!, L=1, not l?
+Z=0, V=1, not v!, I(V)=4, U=4
+Z=0, V=9, not v!, S=16, s!, I(V)=18
+Z=0, V=1, v!, I(V)=1, L=4, l?

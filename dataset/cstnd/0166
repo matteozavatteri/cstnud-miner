@@ -1,0 +1,5 @@
+Z=0, I=9, P=9, W=9
+Z=0, P=6, not p!, I=6, D=6, not d?
+Z=0, I=9, Y=9, y!, D=12
+Z=0, Y=1, not y!, W=1, not w?, D=1
+Z=0, D=1, d?, P=6, not p!, W=6

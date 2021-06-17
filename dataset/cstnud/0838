@@ -1,0 +1,6 @@
+Z=0, H=1, Y=2, C(Y)=5
+Z=0, Y=3, C(Y)=3, H=3, not h!
+Z=0, A=8, not a?, I=10, not i?
+Z=0, H=11, h!, Y=20, not y!, C(Y)=25
+Z=0, Y=9, not y!, H=16, not h!, C(Y)=16
+Z=0, I=1, Y=10

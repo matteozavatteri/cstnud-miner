@@ -1,0 +1,6 @@
+Z=0, H=1, Q=1, q!, D=1
+Z=0, H=7, Q=7, q!, N=14
+Z=0, H=1, Q=6, not q!, T=6, not t?
+Z=0, D=1, N=1, not n?, T=4
+Z=0, T=3, N=3, not n?, D=3
+Z=0, T=1, not t?, Q=1, N=1, n?

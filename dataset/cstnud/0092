@@ -1,0 +1,5 @@
+Z=0, H=1, not h!, W=9, not w?
+Z=0, W=1, T=1, not t?, A(T)=1
+Z=0, C=1, c!, T=1, A(T)=4
+Z=0, T=4, t?, C=4
+Z=0, H=6, not h!, C=13, not c!

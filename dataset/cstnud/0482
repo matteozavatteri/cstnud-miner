@@ -1,0 +1,6 @@
+Z=0, D=1, d?, O=10
+Z=0, O=1, not o?, G=2
+Z=0, G=1, not g!, H(G)=6, O=15, not o?
+Z=0, D=1, not d?, O=1, not o?
+Z=0, G=1, H(G)=4, D=5, not d?
+Z=0, S=1, not s!, O=1, not o?

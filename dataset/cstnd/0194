@@ -1,0 +1,6 @@
+Z=0, K=1, V=2, not v!, C=2, c?
+Z=0, P=7, N=7, V=7
+Z=0, K=2, C=2, not c?, V=2
+Z=0, C=3, c?, N=9, K=15
+Z=0, K=11, not k?, N=21, V=29
+Z=0, V=1, not v!, N=6, not n!, P=12

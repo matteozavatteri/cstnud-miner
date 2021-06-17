@@ -1,0 +1,32 @@
+Propositions {
+  g p b o
+}
+
+TimePoints {
+  (G? : g : )
+  (O! : o : )
+  (U : )
+  (Z : )
+  (P! : p : )
+  (B? : b : )
+}
+
+ContingentLinks {
+}
+
+Constraints {
+  (Z - Z <= 0 : )
+  (U - Z <= 6 : )
+  (P - Z <= 8 : )
+  (B - Z <= 8 : p)
+  (B - Z <= 10 : !p)
+  (G - Z <= 12 : p)
+  (O - Z <= 12 : !p)
+  (Z - U <= -1 : )
+  (Z - P <= -1 : )
+  (Z - B <= -5 : p)
+  (Z - B <= -10 : !p)
+  (Z - G <= -8 : p)
+  (Z - O <= -12 : !p)
+}
+

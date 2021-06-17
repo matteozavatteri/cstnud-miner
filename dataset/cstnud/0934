@@ -1,0 +1,6 @@
+Z=0, A=8, Y=11
+Z=0, V=2, T=4, not t!, I(V)=8
+Z=0, T=1, V=1, not v!, I(V)=3
+Z=0, A=8, T=18
+Z=0, Y=6, V=6, not v!, I(V)=11
+Z=0, Y=1, not y?, A=1

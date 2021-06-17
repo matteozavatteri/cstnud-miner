@@ -1,0 +1,6 @@
+Z=0, A=1, a!, O=1, not o!
+Z=0, W=9, D=11, not d?, P(W)=11
+Z=0, O=1, o!, W=1
+Z=0, A=9, D=18, not d?
+Z=0, A=1, not a!, W=5, P(W)=8
+Z=0, D=1, O=6

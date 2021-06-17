@@ -1,0 +1,5 @@
+Z=0, M=1, not m!, J=4
+Z=0, A=1, J=3, not j!
+Z=0, A=1, J=1, not j!, X(J)=6
+Z=0, J=1, not j!, A=1
+Z=0, J=5, X(J)=8, M=8, m!

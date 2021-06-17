@@ -1,0 +1,32 @@
+Propositions {
+  o k f
+}
+
+TimePoints {
+  (K? : k : )
+  (F? : f : )
+  (O! : o : )
+  (Z : )
+  (C : )
+  (G : )
+}
+
+ContingentLinks {
+}
+
+Constraints {
+  (Z - Z <= 0 : )
+  (C - Z <= 11 : )
+  (F - Z <= 15 : )
+  (O - Z <= 15 : )
+  (K - Z <= 11 : )
+  (G - Z <= 5 : !f !k)
+  (G - Z <= 11 : k)
+  (Z - C <= -9 : )
+  (Z - F <= -5 : )
+  (Z - O <= -5 : )
+  (Z - K <= -1 : )
+  (Z - G <= -5 : !f !k)
+  (Z - G <= -11 : k)
+}
+

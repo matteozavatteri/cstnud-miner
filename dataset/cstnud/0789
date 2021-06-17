@@ -1,0 +1,4 @@
+Z=0, G=5, not g?, L=5
+Z=0, O=1, not o!, G=1, g?, U(O)=1
+Z=0, O=1, not o!, G=1, not g?
+Z=0, O=1, L=2, U(O)=4

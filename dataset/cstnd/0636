@@ -1,0 +1,4 @@
+Z=0, H=1, L=4, S=6
+Z=0, L=1, l!, I=1, i?, H=8
+Z=0, L=1, I=1, not i?, H=2, not h?
+Z=0, I=1, S=1, not s!, H=8, not h?

@@ -1,0 +1,6 @@
+Z=0, I=1, X=6, S=8, s!
+Z=0, R=10, E=10, e!, X=10
+Z=0, R=1, not r?, I=1, E=1, e!
+Z=0, E=1, not e!, I=1, R=7, r?
+Z=0, I=1, E=7, not e!, R=7, not r?
+Z=0, I=10, X=10, not x?, E=12, e!

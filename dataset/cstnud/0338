@@ -1,0 +1,5 @@
+Z=0, Y=1, X=10, not x?
+Z=0, X=2, Y=2, S(X)=7
+Z=0, G=2, g!, Y=2, not y!
+Z=0, X=1, x?, S(X)=1, Q=6
+Z=0, Q=1, not q?, X=1, not x?, S(X)=2

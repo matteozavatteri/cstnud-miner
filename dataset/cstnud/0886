@@ -1,0 +1,6 @@
+Z=0, Q=1, M=8
+Z=0, M=1, not m?, F=1, A(F)=3
+Z=0, P=10, p?, Q=20, not q!
+Z=0, F=6, f!, A(F)=10, P=10
+Z=0, M=1, not m?, F=1
+Z=0, Q=1, not q!, P=6, p?

@@ -1,0 +1,6 @@
+Z=0, C=1, H=1
+Z=0, E=1, C=1
+Z=0, C=9, not c!, B(C)=9, H=9, h!
+Z=0, E=7, not e?, C=7
+Z=0, E=7, e?, C=11, not c!, B(C)=12
+Z=0, C=1, not c!, B(C)=3, E=12

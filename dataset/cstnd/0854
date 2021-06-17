@@ -1,0 +1,4 @@
+Z=0, U=1, P=5, p!, B=5, not b?
+Z=0, P=8, p!, G=8, g?, B=8
+Z=0, P=1, not p!, B=10, O=12, not o!
+Z=0, U=6, P=6, p!, G=12, not g?

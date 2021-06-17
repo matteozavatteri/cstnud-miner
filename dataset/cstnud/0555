@@ -1,0 +1,6 @@
+Z=0, U=1, M=3, m?, R(U)=5
+Z=0, U=1, D=9
+Z=0, M=5, not m?, F=6
+Z=0, U=10, not u?, R(U)=12, F=14, not f!
+Z=0, U=1, not u?, R(U)=2, M=2, m?
+Z=0, M=1, D=9, not d!

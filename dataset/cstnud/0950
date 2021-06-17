@@ -1,0 +1,6 @@
+Z=0, X=4, not x?, L=7
+Z=0, L=1, not l!, V=5, not v?, A(L)=6
+Z=0, X=3, x?, V=7
+Z=0, X=4, not x?, V=9
+Z=0, F=7, f!, L=7, l!
+Z=0, L=8, V=8, A(L)=8

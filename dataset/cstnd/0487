@@ -1,0 +1,5 @@
+Z=0, G=1, not g!, F=1, f?, U=1
+Z=0, J=6, G=14, not g!, F=14, not f?
+Z=0, J=5, U=15, not u!, X=22, x?
+Z=0, U=1, u!, F=1, X=3
+Z=0, J=1, F=1, X=1, not x?

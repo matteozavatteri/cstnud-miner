@@ -1,0 +1,4 @@
+Z=0, B=1, not b!, X=1, R(X)=1
+Z=0, L=9, not l!, T=9
+Z=0, B=6, not b!, L=10, not l!
+Z=0, L=1, X=1, R(X)=2

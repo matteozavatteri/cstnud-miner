@@ -1,0 +1,6 @@
+Z=0, G=1, not g?, V=1
+Z=0, V=4, E=4, F(E)=9
+Z=0, G=1, g?, L=1, not l!
+Z=0, E=7, e?, G=7
+Z=0, L=4, E=4, not e?
+Z=0, E=1, not e?, F(E)=5, L=5

@@ -1,0 +1,5 @@
+Z=0, G=2, C(G)=3, H=6
+Z=0, M=1, G=10, not g!, C(G)=12
+Z=0, H=5, I=8, not i!
+Z=0, I=2, not i!, G=2, not g!, C(G)=2
+Z=0, I=3, i!, G=5

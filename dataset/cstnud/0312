@@ -1,0 +1,5 @@
+Z=0, A=1, H=4, not h!
+Z=0, H=1, P(H)=5, A=10, not a?
+Z=0, S=1, A=1
+Z=0, S=6, not s?, A=11, not a?
+Z=0, H=6, P(H)=9, S=9

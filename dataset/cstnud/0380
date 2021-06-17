@@ -1,0 +1,6 @@
+Z=0, D=1, not d?, J(D)=4, W=4
+Z=0, W=3, w!, L=3, l!
+Z=0, L=10, l!, D=17, not d?
+Z=0, D=10, d?, W=10, not w!, J(D)=14
+Z=0, P=1, p?, D=1, d?, J(D)=3
+Z=0, W=10, not w!, P=11, not p?

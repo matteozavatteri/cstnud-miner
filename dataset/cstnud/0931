@@ -1,0 +1,5 @@
+Z=0, M=1, m!, O=1
+Z=0, O=1, H=1, not h?, F(H)=5
+Z=0, H=1, not h?, O=1
+Z=0, O=4, M=10, not m!
+Z=0, H=10, F(H)=12, M=12, not m!

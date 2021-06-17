@@ -1,0 +1,4 @@
+Z=0, G=1, X(G)=6, Y=6
+Z=0, Y=1, R=1, not r?
+Z=0, R=1, not r?, G=1, X(G)=3
+Z=0, R=1, r?, G=4, not g?

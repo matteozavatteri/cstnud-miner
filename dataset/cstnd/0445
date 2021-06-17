@@ -1,0 +1,5 @@
+Z=0, X=1, I=10, i?, T=10, not t?
+Z=0, P=1, S=1, s!, I=1
+Z=0, X=1, S=1, s!, P=8
+Z=0, P=1, I=1, not i?, T=6
+Z=0, I=1, not i?, S=1, not s!, P=1, p!

@@ -1,0 +1,6 @@
+Z=0, F=9, N=9, not n?, I=9
+Z=0, V=1, I=1, F=2, not f?
+Z=0, C=1, V=4, F=4, not f?
+Z=0, V=1, C=9, F=9, not f?
+Z=0, C=1, V=1, F=4, f?
+Z=0, N=1, not n?, I=11, C=12

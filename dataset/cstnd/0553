@@ -1,0 +1,6 @@
+Z=0, G=6, not g!, M=7, Q=9, not q?
+Z=0, S=10, G=10, not g!, P=16
+Z=0, S=5, not s!, Q=5, M=11
+Z=0, Q=1, G=7, S=7, s!
+Z=0, Q=1, not q?, G=1, g!, S=1, s!
+Z=0, P=9, Q=9, q?, G=9, not g!

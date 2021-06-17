@@ -1,0 +1,6 @@
+Z=0, F=1, U=1, A=1
+Z=0, G=1, not g?, U=1, not u!, A=10
+Z=0, F=1, A=2, not a?, O=2
+Z=0, O=1, o!, U=1, not u!, F=9
+Z=0, G=1, not g?, F=9, O=9
+Z=0, A=6, not a?, G=14, g?, O=17

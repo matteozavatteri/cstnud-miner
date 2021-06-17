@@ -1,0 +1,6 @@
+Z=0, T=1, Y=1, N=1, not n!
+Z=0, F=1, not f?, T=1, Y=1, not y?
+Z=0, T=1, X=5, not x!, F=7, f?
+Z=0, T=6, N=6, n!, F=6, f?
+Z=0, N=1, T=2, F=2
+Z=0, F=1, Y=2, X=2

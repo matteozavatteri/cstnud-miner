@@ -1,0 +1,6 @@
+Z=0, F=1, J=1, j!, A=1
+Z=0, N=1, not n!, J=1, A=1
+Z=0, N=1, n!, F=3, O=3, not o?
+Z=0, J=1, not j!, A=1, a?, F=1
+Z=0, A=1, not a?, J=1, F=1
+Z=0, O=1, A=1, a?, J=1, j!

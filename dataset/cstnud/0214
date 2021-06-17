@@ -1,0 +1,6 @@
+Z=0, M=1, J(M)=5, T=13, not t!
+Z=0, T=1, H=1
+Z=0, F=1, f?, H=1, h!
+Z=0, F=1, not f?, T=1, t!
+Z=0, M=11, J(M)=14, F=23, f?
+Z=0, H=1, not h!, M=1, not m?

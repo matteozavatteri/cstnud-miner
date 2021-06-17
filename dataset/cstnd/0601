@@ -1,0 +1,6 @@
+Z=0, L=3, not l!, O=9, o!, V=10
+Z=0, V=1, O=1, not o!, L=1, l!
+Z=0, O=8, not o!, N=8, T=12, not t?
+Z=0, V=1, L=1, l!, N=5
+Z=0, L=1, N=1, O=1, not o!
+Z=0, T=1, L=11, l!, N=18

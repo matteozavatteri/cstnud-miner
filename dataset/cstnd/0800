@@ -1,0 +1,5 @@
+Z=0, M=8, m?, G=16, g?, U=16, not u!
+Z=0, B=1, M=11, m?, U=11, not u!
+Z=0, M=1, m?, B=1, U=4, not u!
+Z=0, X=3, G=3, U=4
+Z=0, B=1, U=1, not u!, X=5

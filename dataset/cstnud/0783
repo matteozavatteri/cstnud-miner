@@ -1,0 +1,6 @@
+Z=0, E=11, not e?, I=11, S(I)=13
+Z=0, G=1, g?, E=1
+Z=0, G=1, not g?, R=1, not r!
+Z=0, G=1, not g?, E=1, e?
+Z=0, I=1, S(I)=1, G=6
+Z=0, G=7, not g?, E=11

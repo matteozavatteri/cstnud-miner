@@ -1,0 +1,5 @@
+Z=0, R=1, not r!, Y=1, not y!, F=2, not f?
+Z=0, R=1, D=1, Y=1
+Z=0, R=5, not r!, J=7, Y=7, y!
+Z=0, J=11, F=11, not f?, Y=11, not y!
+Z=0, D=11, Y=13, R=13, r!

@@ -1,0 +1,6 @@
+Z=0, B=1, b!, C=1, S=3
+Z=0, B=3, C=3, Q=3, not q?
+Z=0, S=7, s!, B=7, U=16, not u?
+Z=0, S=2, not s!, Q=3, U=3
+Z=0, Q=1, not q?, U=5, not u?, S=5
+Z=0, C=4, Q=4, U=4, u?

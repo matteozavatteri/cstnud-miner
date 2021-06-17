@@ -1,0 +1,5 @@
+Z=0, O=1, o!, I=3, not i!, J(I)=8
+Z=0, O=7, o!, K=7, k?
+Z=0, O=6, o!, Y=6, not y?
+Z=0, K=1, not k?, I=7, i!, J(I)=10
+Z=0, K=11, not k?, I=13, not i!

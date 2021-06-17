@@ -1,0 +1,6 @@
+Z=0, R=1, r?, Y=1
+Z=0, Y=4, R=5
+Z=0, R=1, not r?, G=5, U(G)=5
+Z=0, R=1, not r?, L=11, l?
+Z=0, L=1, not l?, G=1, U(G)=2
+Z=0, L=5, not l?, Y=7

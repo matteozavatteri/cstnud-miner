@@ -1,0 +1,4 @@
+Z=0, B=1, P=1, G=1
+Z=0, D=1, not d!, G=1, not g?, B=2
+Z=0, B=1, G=1, N=1, not n!
+Z=0, D=5, B=5, G=5, not g?

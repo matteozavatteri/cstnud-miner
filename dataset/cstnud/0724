@@ -1,0 +1,4 @@
+Z=0, Y=1, G=1, not g?
+Z=0, S=1, s!, Y=10, not y?, A(S)=10
+Z=0, S=1, not s!, G=1, not g?
+Z=0, S=1, s!, A(S)=2, G=2, g?

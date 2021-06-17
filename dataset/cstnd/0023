@@ -1,0 +1,6 @@
+Z=0, X=1, T=1, not t!, I=1
+Z=0, X=1, not x?, J=6, j!, T=6, t!
+Z=0, T=10, J=10, not j!, X=10
+Z=0, I=5, J=5, not j!, X=8, not x?
+Z=0, M=10, T=10, X=10, not x?
+Z=0, X=9, J=9, j!, T=9

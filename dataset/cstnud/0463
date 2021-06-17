@@ -1,0 +1,6 @@
+Z=0, L=1, I=6, M(I)=6
+Z=0, B=1, not b?, I=5
+Z=0, L=1, not l!, N=1, not n!
+Z=0, B=5, not b?, N=5, n!
+Z=0, L=1, not l!, I=1, not i?, M(I)=2
+Z=0, L=9, I=16

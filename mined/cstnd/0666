@@ -1,0 +1,36 @@
+Propositions {
+  o f u
+}
+
+TimePoints {
+  (U? : u : )
+  (N : )
+  (Z : )
+  (O? : o : )
+  (F! : f : )
+  (I : )
+}
+
+ContingentLinks {
+}
+
+Constraints {
+  (Z - Z <= 0 : )
+  (F - Z <= 9 : )
+  (U - Z <= 19 : !f)
+  (U - Z <= 19 : f)
+  (U - Z <= 19 : !o)
+  (I - Z <= 19 : !f u)
+  (I - Z <= 1 : f)
+  (N - Z <= 10 : !f)
+  (O - Z <= 12 : )
+  (Z - F <= -1 : )
+  (Z - U <= -10 : !f)
+  (Z - U <= -10 : f)
+  (Z - U <= -10 : !o)
+  (Z - I <= -19 : !f u)
+  (Z - I <= -1 : f)
+  (Z - N <= -10 : !f)
+  (Z - O <= -6 : )
+}
+

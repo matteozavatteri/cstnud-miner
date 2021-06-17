@@ -1,0 +1,5 @@
+Z=0, E=10, e?, Y=15, not y?, F(Y)=16
+Z=0, E=9, e?, H=9
+Z=0, H=1, h!, Y=2, y?, F(Y)=2
+Z=0, E=1, not e?, I=1, not i!
+Z=0, I=1, not i!, E=10, not e?

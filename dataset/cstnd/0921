@@ -1,0 +1,6 @@
+Z=0, O=1, W=3, B=6, not b?
+Z=0, O=1, not o!, W=5, B=11
+Z=0, M=1, not m!, W=1, B=9, b?
+Z=0, V=1, B=6, O=6
+Z=0, O=1, B=4, b?, V=4
+Z=0, M=7, not m!, O=9, o!, W=9

@@ -1,0 +1,6 @@
+Z=0, X=1, M=3, not m!, F=3, not f?
+Z=0, X=2, F=2, O=2
+Z=0, O=5, M=8, X=8
+Z=0, D=1, not d!, F=1, f?, M=1, m!
+Z=0, X=2, F=2, not f?, O=2
+Z=0, M=8, not m!, D=17, not d!, O=17

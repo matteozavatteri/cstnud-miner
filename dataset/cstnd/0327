@@ -1,0 +1,6 @@
+Z=0, H=2, h?, K=8, E=8, e!
+Z=0, K=1, E=9, e!, H=9, h?
+Z=0, E=9, not e!, B=16, H=16, not h?
+Z=0, K=5, B=7, E=10, not e!
+Z=0, K=1, B=1, not b?, H=1, not h?
+Z=0, C=1, B=1, not b?, H=11, not h?

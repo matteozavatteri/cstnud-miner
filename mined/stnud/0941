@@ -1,0 +1,29 @@
+Propositions {
+  w i
+}
+
+TimePoints {
+  (W! : w : )
+  (Z : )
+  (D : )
+  (I! : i : )
+  (N : )
+  (U : )
+}
+
+ContingentLinks {
+  (D,1,11,N)
+}
+
+Constraints {
+  (Z - Z <= 0 : )
+  (U - Z <= 7 : )
+  (D - Z <= 9 : )
+  (I - Z <= 7 : )
+  (W - Z <= 17 : )
+  (Z - U <= -1 : )
+  (Z - D <= -1 : )
+  (Z - I <= -3 : )
+  (Z - W <= -6 : )
+}
+

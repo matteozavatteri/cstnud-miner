@@ -1,0 +1,6 @@
+Z=0, J=1, X=3, not x!, R(X)=5
+Z=0, X=1, Q=1, not q?, R(X)=5
+Z=0, Q=1, not q?, G=1
+Z=0, X=8, R(X)=9, Q=12, not q?
+Z=0, Q=8, not q?, J=15
+Z=0, Q=10, X=10, not x!, R(X)=15

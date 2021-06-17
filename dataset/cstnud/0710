@@ -1,0 +1,6 @@
+Z=0, L=1, O=7
+Z=0, C=5, not c!, H(C)=8, L=18, not l?
+Z=0, L=1, not l?, O=1
+Z=0, C=1, c!, L=1, l?, H(C)=2
+Z=0, R=6, not r!, O=6
+Z=0, C=2, not c!, H(C)=7, O=7, not o?

@@ -1,0 +1,6 @@
+Z=0, R=1, J=1, j?, S=1
+Z=0, R=1, D=2, not d?, J=2
+Z=0, R=3, H=3, not h!, S=7, not s!
+Z=0, J=6, not j?, H=6, not h!, D=6
+Z=0, J=1, not j?, D=11, R=11
+Z=0, R=1, S=8, s!, D=14, d?

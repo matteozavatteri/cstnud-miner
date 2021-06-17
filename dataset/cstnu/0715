@@ -1,0 +1,5 @@
+Z=0, E=1, X=1, W(X)=4
+Z=0, M=2, not m?, X=2
+Z=0, E=1, not e?, M=1
+Z=0, M=9, not m?, X=16, W(X)=20
+Z=0, M=9, not m?, E=10

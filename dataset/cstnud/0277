@@ -1,0 +1,3 @@
+Z=0, T=1, not t!, R(T)=4, S=4, not s?
+Z=0, T=1, t!, R(T)=5, S=8, s?
+Z=0, F=2, not f?, T=2, not t!, R(T)=7

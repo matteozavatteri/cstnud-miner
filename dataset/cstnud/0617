@@ -1,0 +1,5 @@
+Z=0, X=8, x?, U=11, not u!
+Z=0, X=1, not x?, U=1, not u!
+Z=0, X=10, not x?, U=12
+Z=0, O=1, not o!, I(O)=5, U=8
+Z=0, U=1, not u!, O=1, I(O)=1

@@ -1,0 +1,5 @@
+Z=0, E=1, K=9, not k!, S=9
+Z=0, E=5, K=8, not k!, S=8, not s!
+Z=0, E=1, Q=1, S=10
+Z=0, R=1, Q=1, S=1
+Z=0, Q=6, S=6, not s!, R=6

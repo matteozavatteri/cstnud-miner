@@ -1,0 +1,4 @@
+Z=0, E=1, U=2, not u!
+Z=0, U=1, Q(U)=4, E=8, not e!
+Z=0, U=1, u!, Q(U)=5, H=5, not h?
+Z=0, H=1, V=1, not v?

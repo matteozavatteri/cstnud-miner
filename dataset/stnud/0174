@@ -1,0 +1,5 @@
+Z=0, I=8, i!, W(I)=11, S=11, not s!
+Z=0, I=1, not i!, C=1
+Z=0, I=1, not i!, W(I)=4, C=4
+Z=0, S=2, not s!, C=2
+Z=0, C=8, I=10, W(I)=12

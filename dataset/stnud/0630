@@ -1,0 +1,6 @@
+Z=0, H=5, h!, A=5, L(H)=6
+Z=0, I=10, H=18, L(H)=19
+Z=0, H=1, not h!, L(H)=6, I=6
+Z=0, H=1, L(H)=1, A=1, not a!
+Z=0, A=1, a!, H=1, not h!, L(H)=4
+Z=0, I=1, H=4, not h!

@@ -1,0 +1,5 @@
+Z=0, T=1, not t?, O=6, not o!, A=11, not a?
+Z=0, O=2, A=2, a?, T=2, not t?
+Z=0, H=1, A=1, T=5, not t?
+Z=0, H=1, A=2, not a?, T=7, not t?
+Z=0, H=7, h!, A=17, not a?, O=25

@@ -1,0 +1,4 @@
+Z=0, T=1, G=1, g?
+Z=0, T=3, t!, F=3, not f!, P(F)=5
+Z=0, G=1, not g?, F=1, not f!, P(F)=4
+Z=0, G=4, not g?, F=4, P(F)=4

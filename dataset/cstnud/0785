@@ -1,0 +1,5 @@
+Z=0, V=1, not v?, L=1
+Z=0, Q=5, L=5, not l!, E(Q)=5
+Z=0, R=1, not r!, L=3
+Z=0, Q=1, E(Q)=6, V=6
+Z=0, V=1, v?, Q=10, not q?, E(Q)=14

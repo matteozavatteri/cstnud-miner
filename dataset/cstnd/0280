@@ -1,0 +1,6 @@
+Z=0, P=10, L=10, M=20
+Z=0, P=1, p?, C=1, c!, M=1, not m?
+Z=0, O=1, L=1, C=1
+Z=0, O=8, not o!, L=8, P=8, not p?
+Z=0, P=9, not p?, C=19, M=22, not m?
+Z=0, C=1, c!, P=2, p?, L=6

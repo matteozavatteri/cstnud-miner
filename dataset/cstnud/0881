@@ -1,0 +1,6 @@
+Z=0, L=6, not l?, F=14
+Z=0, F=6, not f?, L=16, l?
+Z=0, Y=1, E(Y)=2, G=6
+Z=0, Y=1, y!, G=4, not g!
+Z=0, L=4, l?, Y=12, not y!, E(Y)=13
+Z=0, Y=1, y!, G=1, E(Y)=5

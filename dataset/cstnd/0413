@@ -1,0 +1,6 @@
+Z=0, T=1, t?, A=2, a!, H=2
+Z=0, R=3, B=3, A=3, not a!
+Z=0, H=1, not h!, T=1, not t?, A=1, not a!
+Z=0, T=1, not t?, H=1, h!, A=5
+Z=0, B=1, b?, A=1, a!, H=4, h!
+Z=0, A=2, T=8, R=16

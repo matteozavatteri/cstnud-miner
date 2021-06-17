@@ -1,0 +1,5 @@
+Z=0, V=1, F=3, f!, W=3, not w!
+Z=0, W=10, w!, N=20, n?, F=23
+Z=0, W=5, F=5, not f!, V=8
+Z=0, F=7, not f!, N=7, n?, V=10
+Z=0, V=1, Y=2, not y?, F=2, not f!

@@ -1,0 +1,5 @@
+Z=0, C=1, V=7
+Z=0, V=11, v?, S=11, B(S)=11
+Z=0, V=10, not v?, G=16, not g!
+Z=0, C=1, not c?, S=1, s!, B(S)=5
+Z=0, G=4, not g!, V=7, v?

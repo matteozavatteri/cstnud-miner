@@ -1,0 +1,6 @@
+Z=0, W=1, Q=1, not q!
+Z=0, H=1, not h!, J(H)=6, Q=6, not q!
+Z=0, Q=1, H=1
+Z=0, Q=1, H=2, not h!
+Z=0, Q=4, D=4
+Z=0, H=11, h!, W=12, J(H)=14

@@ -1,0 +1,6 @@
+Z=0, E=1, U=7, not u!
+Z=0, K=1, F=1, D(F)=3
+Z=0, U=1, u!, F=1, not f!, D(F)=2
+Z=0, E=1, F=4, D(F)=8
+Z=0, E=5, F=7, not f!, D(F)=8
+Z=0, K=1, U=1, not u!

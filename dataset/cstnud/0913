@@ -1,0 +1,6 @@
+Z=0, A=1, not a?, K=1, not k?, O(K)=4
+Z=0, K=1, k?, O(K)=1, S=1, not s!
+Z=0, K=4, O(K)=9, X=9, x!
+Z=0, K=1, O(K)=4, S=4, s!
+Z=0, S=4, s!, X=4
+Z=0, S=1, K=1, not k?, O(K)=1

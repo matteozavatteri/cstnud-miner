@@ -1,0 +1,4 @@
+Z=0, E=1, I=1, T=2
+Z=0, J=1, not j!, T=1, E=1
+Z=0, I=6, not i!, T=6, X=16
+Z=0, J=5, not j!, I=12, not i!, X=14

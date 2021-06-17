@@ -1,0 +1,4 @@
+Z=0, C=1, not c?, F=5
+Z=0, P=5, p!, Y(P)=7, C=7, c?
+Z=0, F=1, not f?, P=1, not p!, Y(P)=6
+Z=0, F=1, not f?, C=6

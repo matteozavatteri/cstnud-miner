@@ -1,0 +1,6 @@
+Z=0, I=10, not i!, L(I)=10, D=19, not d?
+Z=0, D=1, d?, P=6, p?
+Z=0, I=6, not i!, L(I)=8, P=11
+Z=0, D=6, d?, P=6, not p?
+Z=0, D=1, d?, P=4, not p?
+Z=0, P=1, not p?, I=1, i!

@@ -1,0 +1,6 @@
+Z=0, C=1, not c?, P(C)=4, L=9
+Z=0, D=1, d!, C=11, c?, P(C)=11
+Z=0, E=1, D=1, not d!
+Z=0, E=7, not e!, C=7, not c?, P(C)=8
+Z=0, D=2, not d!, E=2
+Z=0, E=3, L=10, not l?

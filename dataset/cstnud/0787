@@ -1,0 +1,6 @@
+Z=0, Y=1, H=1
+Z=0, E=1, not e!, H=2, not h!
+Z=0, F=1, R(F)=6, H=6, not h!
+Z=0, E=6, Y=6
+Z=0, F=1, f?, Y=9
+Z=0, F=1, not f?, Y=1, R(F)=4

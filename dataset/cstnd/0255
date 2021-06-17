@@ -1,0 +1,6 @@
+Z=0, Y=1, D=1, d!, Q=8, not q?
+Z=0, Q=2, not q?, F=6, S=10
+Z=0, S=1, Y=1, not y?, D=1, d!
+Z=0, Q=1, F=11, D=11, not d!
+Z=0, Q=10, q?, F=10, D=17
+Z=0, Q=1, q?, S=1, not s!, Y=1, not y?

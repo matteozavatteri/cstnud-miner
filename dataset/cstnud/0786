@@ -1,0 +1,5 @@
+Z=0, U=8, not u?, T=9, t!
+Z=0, R=1, K=3, k?, W(R)=3
+Z=0, U=10, u?, R=10, r!
+Z=0, R=3, not r!, W(R)=7, T=11, not t!
+Z=0, R=1, r!, K=1, not k?

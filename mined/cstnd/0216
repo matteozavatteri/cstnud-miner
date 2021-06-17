@@ -1,0 +1,30 @@
+Propositions {
+  y x l
+}
+
+TimePoints {
+  (X? : x : )
+  (Y! : y : )
+  (O : )
+  (L? : l : )
+  (Z : )
+  (H : )
+}
+
+ContingentLinks {
+}
+
+Constraints {
+  (Z - Z <= 0 : )
+  (O - Z <= 6 : )
+  (X - Z <= 9 : )
+  (Y - Z <= 9 : )
+  (L - Z <= 9 : )
+  (H - Z <= 16 : l)
+  (Z - O <= -6 : )
+  (Z - X <= -6 : )
+  (Z - Y <= -7 : )
+  (Z - L <= -8 : )
+  (Z - H <= -16 : l)
+}
+

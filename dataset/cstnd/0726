@@ -1,0 +1,4 @@
+Z=0, S=10, s!, A=10, not a?, E=19
+Z=0, X=7, not x?, A=15, E=15, e!
+Z=0, X=1, not x?, A=4, not a?, E=8, e!
+Z=0, X=2, not x?, E=9, S=17, not s!

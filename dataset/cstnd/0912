@@ -1,0 +1,5 @@
+Z=0, O=1, J=5, j?, W=5
+Z=0, S=1, F=1, not f!, J=1, j?
+Z=0, W=5, O=5, o?, F=5, f!
+Z=0, F=1, not f!, O=8, not o?, J=8, not j?
+Z=0, S=1, F=1, W=4

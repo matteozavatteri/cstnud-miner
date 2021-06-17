@@ -1,0 +1,5 @@
+Z=0, O=1, not o!, R=1, P(O)=5
+Z=0, O=2, not o!, A=3, P(O)=4
+Z=0, O=1, not o!, W=1, w!, P(O)=2
+Z=0, W=3, R=3, not r?
+Z=0, O=4, not o!, A=9, P(O)=12

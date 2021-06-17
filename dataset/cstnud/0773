@@ -1,0 +1,5 @@
+Z=0, T=1, P=3
+Z=0, S=1, F(S)=4, P=9
+Z=0, P=9, p?, S=14, not s!
+Z=0, T=11, not t?, S=12, not s!, F(S)=14
+Z=0, K=7, not k!, S=13, not s!

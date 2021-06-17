@@ -1,0 +1,6 @@
+Z=0, H=1, E=1, Q=1
+Z=0, Q=1, not q?, C=6, D=8
+Z=0, C=6, E=6, D=14
+Z=0, H=1, D=1, not d?, Q=1, not q?
+Z=0, H=1, D=11, not d?, Q=11
+Z=0, D=10, not d?, H=17, Q=22, q?

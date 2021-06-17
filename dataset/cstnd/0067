@@ -1,0 +1,5 @@
+Z=0, X=1, E=3, e?, B=3, not b!
+Z=0, E=1, not e?, X=3, not x!, I=6, not i?
+Z=0, E=3, not e?, G=3, X=13
+Z=0, E=1, e?, X=1, G=9
+Z=0, I=1, i?, G=1, X=1, x!

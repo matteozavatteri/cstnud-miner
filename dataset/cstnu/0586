@@ -1,0 +1,3 @@
+Z=0, O=1, T=4, not t?, Y(T)=5
+Z=0, T=9, not t?, Y(T)=12, Q=12, not q?
+Z=0, T=1, not t?, Q=1, not q?, Y(T)=2

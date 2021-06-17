@@ -1,0 +1,4 @@
+Z=0, Q=1, not q!, G=1, g!, L=1
+Z=0, V=1, v?, Q=1, not q!, U=10
+Z=0, G=11, g!, Q=11, q!, U=19
+Z=0, V=8, v?, U=8, not u?, Q=8, not q!

@@ -1,0 +1,6 @@
+Z=0, D=1, not d?, F=5, not f?
+Z=0, F=8, not f?, W=11
+Z=0, A=9, a!, F=9, f?
+Z=0, F=1, not f?, D=1, d?, M(D)=6
+Z=0, F=8, D=16, not d?, M(D)=20
+Z=0, A=1, D=1, not d?, M(D)=4

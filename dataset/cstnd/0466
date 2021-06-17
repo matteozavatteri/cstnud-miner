@@ -1,0 +1,6 @@
+Z=0, T=1, not t!, O=1, G=1, g?
+Z=0, G=1, not g?, F=1, T=3
+Z=0, F=3, O=3, U=3, not u?
+Z=0, F=1, U=1, not u?, O=3
+Z=0, T=8, not t!, O=13, G=13, not g?
+Z=0, O=1, T=1, t!, U=1, not u?

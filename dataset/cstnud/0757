@@ -1,0 +1,6 @@
+Z=0, D=1, not d!, C=1, c!, A(D)=4
+Z=0, C=1, D=1, A(D)=3
+Z=0, Q=1, not q?, C=1, not c!
+Z=0, Q=7, q?, C=7
+Z=0, C=1, c!, J=7, not j?
+Z=0, J=6, not j?, D=15, d!

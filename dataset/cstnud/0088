@@ -1,0 +1,6 @@
+Z=0, K=1, not k?, M=1
+Z=0, K=1, k?, X=2, not x?, L(X)=5
+Z=0, K=1, X=6, L(X)=10
+Z=0, J=1, not j!, K=1, k?
+Z=0, K=1, M=6, not m!
+Z=0, X=1, L(X)=5, K=9

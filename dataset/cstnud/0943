@@ -1,0 +1,6 @@
+Z=0, F=1, not f?, M=7
+Z=0, Y=5, F=5, not f?
+Z=0, M=5, m?, F=7, O(M)=7
+Z=0, E=1, e!, F=9, not f?
+Z=0, Y=1, F=1, not f?
+Z=0, M=1, O(M)=2, Y=10, not y!

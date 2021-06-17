@@ -1,0 +1,5 @@
+Z=0, L=9, R=12, not r!, O(R)=16
+Z=0, L=3, not l?, R=3, O(R)=3
+Z=0, T=11, L=11, not l?
+Z=0, T=9, L=16, l?
+Z=0, Q=1, not q!, T=4

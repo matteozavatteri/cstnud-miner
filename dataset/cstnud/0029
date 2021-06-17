@@ -1,0 +1,6 @@
+Z=0, O=3, C=5
+Z=0, C=10, not c!, Y=10, y?
+Z=0, C=1, c!, Q=9, q?, F(Q)=9
+Z=0, Q=9, q?, F(Q)=13, O=13
+Z=0, Y=1, not y?, O=1, not o!
+Z=0, C=6, O=7, not o!

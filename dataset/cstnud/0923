@@ -1,0 +1,6 @@
+Z=0, V=1, not v!, F=6, not f!
+Z=0, F=1, not f!, V=4, not v!
+Z=0, V=11, O=19, not o?
+Z=0, O=8, S(O)=10, F=10, not f!
+Z=0, W=6, w?, O=8, S(O)=11
+Z=0, O=9, o?, S(O)=14, F=20

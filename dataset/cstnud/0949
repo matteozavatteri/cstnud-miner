@@ -1,0 +1,6 @@
+Z=0, O=1, G=10, not g?
+Z=0, P=1, not p!, J(P)=1, G=1, g?
+Z=0, G=3, P=3, not p!, J(P)=8
+Z=0, T=2, t?, O=3, not o!
+Z=0, T=1, t?, P=1
+Z=0, G=1, O=9

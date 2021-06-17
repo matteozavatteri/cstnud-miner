@@ -1,0 +1,5 @@
+Z=0, U=1, not u!, B=1, b?, V=6
+Z=0, T=1, not t!, V=1, P=1, not p?
+Z=0, U=1, T=1, t!, P=1, p?
+Z=0, P=1, V=3, T=11
+Z=0, U=5, not u!, V=12, B=19

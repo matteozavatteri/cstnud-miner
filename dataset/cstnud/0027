@@ -1,0 +1,6 @@
+Z=0, Q=3, q!, S=9, s?, V(S)=11
+Z=0, P=10, R=18, r?
+Z=0, R=1, not r?, S=8, not s?, V(S)=11
+Z=0, P=4, p!, R=6, r?
+Z=0, S=1, not s?, R=8, not r?, V(S)=11
+Z=0, R=7, not r?, S=9, s?, V(S)=14

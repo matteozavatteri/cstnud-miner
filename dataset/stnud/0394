@@ -1,0 +1,6 @@
+Z=0, L=1, T(L)=4, M=10
+Z=0, M=1, not m!, S=3
+Z=0, S=11, L=11
+Z=0, L=1, W=2, not w!, T(L)=6
+Z=0, S=1, M=7, not m!
+Z=0, M=6, W=6, not w!

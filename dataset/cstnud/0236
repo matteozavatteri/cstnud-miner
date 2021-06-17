@@ -1,0 +1,6 @@
+Z=0, P=1, p!, F=1
+Z=0, P=8, not p!, A(P)=10, R=10, not r!
+Z=0, R=1, not r!, F=1
+Z=0, F=1, f?, R=1, r!
+Z=0, O=1, P=11, A(P)=16
+Z=0, P=4, not p!, A(P)=4, R=4

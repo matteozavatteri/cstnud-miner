@@ -1,0 +1,5 @@
+Z=0, V=1, v?, Q=4, S=10
+Z=0, Q=1, V=2, not v?, S=2
+Z=0, W=6, not w?, V=6, not v?, S=8
+Z=0, W=9, not w?, G=9, Q=9
+Z=0, W=2, w?, Q=12, V=12

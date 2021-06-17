@@ -1,0 +1,6 @@
+Z=0, F=1, C=3, c?
+Z=0, D=7, not d?, F=10, f!
+Z=0, D=1, d?, C=1, c?
+Z=0, D=1, d?, F=1, not f!, B(F)=1
+Z=0, F=11, not f!, B(F)=15, C=15
+Z=0, D=1, not d?, C=4

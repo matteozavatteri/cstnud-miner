@@ -1,0 +1,4 @@
+Z=0, S=1, s!, F=1, X=1, x!
+Z=0, Q=4, q?, F=7, not f?, M=7
+Z=0, Q=1, not q?, S=3, s!, F=12, not f?
+Z=0, X=1, not x!, M=11, Q=16, q?

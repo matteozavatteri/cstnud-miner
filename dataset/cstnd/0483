@@ -1,0 +1,5 @@
+Z=0, J=5, not j!, T=6, N=6
+Z=0, T=8, t!, J=8, M=8
+Z=0, H=1, T=5, not t!, J=13, not j!
+Z=0, N=1, T=1, t!, M=4
+Z=0, T=6, not t!, H=15, h?, M=19, m?

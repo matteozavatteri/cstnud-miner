@@ -1,0 +1,5 @@
+Z=0, F=1, f!, O=1, not o?
+Z=0, O=6, F=6, not f!
+Z=0, O=6, W=15, not w!
+Z=0, O=1, not o?, X(O)=4, I=4, not i?
+Z=0, O=1, F=1, X(O)=1

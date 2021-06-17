@@ -1,0 +1,6 @@
+Z=0, F=3, not f!, L=3, R(L)=3
+Z=0, F=6, not f!, T=6
+Z=0, L=1, R(L)=3, T=3
+Z=0, F=2, not f!, T=2
+Z=0, D=2, not d!, L=11, R(L)=11
+Z=0, T=1, F=1, f!

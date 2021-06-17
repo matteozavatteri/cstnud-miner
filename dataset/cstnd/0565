@@ -1,0 +1,5 @@
+Z=0, L=4, not l!, V=4, not v?, D=6, not d?
+Z=0, V=10, B=20, G=20
+Z=0, B=10, G=19, L=28, l!
+Z=0, B=1, L=9, not l!, D=9, d?
+Z=0, G=1, B=1, not b!, V=1, v?

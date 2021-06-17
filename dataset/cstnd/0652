@@ -1,0 +1,5 @@
+Z=0, H=1, X=1, not x?, M=4, not m?
+Z=0, E=3, M=10, not m?, X=12, x?
+Z=0, O=10, not o!, X=10, not x?, E=10
+Z=0, M=11, not m?, O=14, not o!, H=21
+Z=0, O=1, H=8, X=17

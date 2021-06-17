@@ -1,0 +1,6 @@
+Z=0, Y=1, V=7, W=7, not w!
+Z=0, V=1, Q=1, Y=1, not y!
+Z=0, W=1, Y=1, Q=1
+Z=0, W=1, Q=1, not q?, T=1
+Z=0, W=9, w!, Y=9, Q=18, not q?
+Z=0, W=1, Q=2, not q?, V=6

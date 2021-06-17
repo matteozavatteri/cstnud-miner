@@ -1,0 +1,5 @@
+Z=0, R=1, not r?, X=10, U(X)=15
+Z=0, E=9, X=9, not x?, U(X)=12
+Z=0, X=1, not x?, U(X)=2, R=2
+Z=0, E=5, not e!, I=5
+Z=0, X=5, x?, U(X)=5, E=5, e!

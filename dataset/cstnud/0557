@@ -1,0 +1,6 @@
+Z=0, F=1, W=11
+Z=0, J=4, W=4, not w?
+Z=0, E=4, U(E)=8, W=8, not w?
+Z=0, F=1, E=1, not e!, U(E)=5
+Z=0, E=3, U(E)=5, J=11
+Z=0, F=1, not f!, J=1

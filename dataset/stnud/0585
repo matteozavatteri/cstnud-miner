@@ -1,0 +1,5 @@
+Z=0, H=1, not h!, T=1, not t!
+Z=0, U=7, H=7, h!, D(H)=10
+Z=0, T=9, t!, H=9, h!, D(H)=12
+Z=0, H=1, not h!, D(H)=2, F=6
+Z=0, U=5, T=5, not t!

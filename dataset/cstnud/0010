@@ -1,0 +1,6 @@
+Z=0, R=1, r!, B=2, b?
+Z=0, R=1, r!, X=1, not x?
+Z=0, X=3, B=3, not b?, S(B)=4
+Z=0, N=11, B=12, S(B)=14
+Z=0, X=1, x?, R=1
+Z=0, N=4, not n!, R=9, not r!

@@ -1,0 +1,6 @@
+Z=0, J=1, D=1, not d?
+Z=0, D=1, not d?, V=1
+Z=0, J=1, not j?, D=1, d?
+Z=0, V=6, X(V)=11, D=13, d?
+Z=0, J=3, j?, V=3, X(V)=3
+Z=0, V=1, X(V)=3, D=6, not d?
