@@ -53,7 +53,7 @@ To run again the experimental evaluation discussed in paper 1 (see references), 
 
 # References
 
-1. Guido Sciavicco, Matteo Zavatteri, Tiziano Villa - Mining CSTNUDs Significant for a Set of Traces is Polynomial. Information and Computation, 2021 (to appear)
+1. [Guido Sciavicco, Matteo Zavatteri, Tiziano Villa - Mining CSTNUDs Significant for a Set of Traces is Polynomial. Information and Computation, 2021](https://doi.org/10.1016/j.ic.2021.104773)
 
 2. [Guido Sciavicco, Matteo Zavatteri, Tiziano Villa - Mining Significant CSTNUDs is Polynomial. In 27th International Symposium on Temporal Representation and Reasoning (TIME 2020), volume 178 of Leibniz International Proceedings in Informatics (LIPIcs), pages 11:1–11:12. Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2020.](https://drops.dagstuhl.de/opus/volltexte/2020/12979/)
 
